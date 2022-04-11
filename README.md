@@ -1,16 +1,9 @@
-# myproject
+# myproject_tugas2
 
-A new Flutter project.
+Repositori ini berisikan tentang login page, beranda dan profil dari developer
+Tema yang dibuat merupakan referensi dari desain UI dari tugas semester sebelumnya, dapat dilihat pada link berikut :
+https://www.figma.com/file/zWt1QcEnDfe7W3ohezkpuu/TUGAS-AKHIR?node-id=0%3A3
 
-## Getting Started
+## Gambar
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (115)](https://user-images.githubusercontent.com/101104676/162780680-9f37afe5-f733-4182-b771-30b4ad10406e.png)
